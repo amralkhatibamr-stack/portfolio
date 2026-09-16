@@ -57,4 +57,3 @@ node build.mjs
 ## إعداد الاستضافة
 
 من **Settings → Pages → Build and deployment** اختَر **GitHub Actions**. سير النشر موجود في `.github/workflows/pages.yml`. الموقع عام، ولا يتطلب وصولًا إلى الاستضافة السابقة أو ملفات الجهاز الأصلي. تُنشر ملفات `public/` فقط؛ أدوات التطوير وبيانات التوليد تبقى في المستودع.
-

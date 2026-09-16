@@ -1,0 +1,712 @@
+{
+  "healing-center": {
+    "folder": "01",
+    "images": [
+      {
+        "src": "media/healing-center-01.webp",
+        "small": "media/healing-center-01-small.webp",
+        "width": 1800,
+        "height": 1012,
+        "smallWidth": 900,
+        "full": "media/healing-center-01-full.webp",
+        "fullWidth": 2048,
+        "fullHeight": 1152
+      },
+      {
+        "src": "media/healing-center-02.webp",
+        "small": "media/healing-center-02-small.webp",
+        "width": 1800,
+        "height": 1012,
+        "smallWidth": 900,
+        "full": "media/healing-center-02-full.webp",
+        "fullWidth": 2048,
+        "fullHeight": 1152
+      },
+      {
+        "src": "media/healing-center-03.webp",
+        "small": "media/healing-center-03-small.webp",
+        "width": 1800,
+        "height": 1005,
+        "smallWidth": 900,
+        "full": "media/healing-center-03-full.webp",
+        "fullWidth": 845,
+        "fullHeight": 472
+      },
+      {
+        "src": "media/healing-center-04.webp",
+        "small": "media/healing-center-04-small.webp",
+        "width": 1800,
+        "height": 1004,
+        "smallWidth": 900,
+        "full": "media/healing-center-04-full.webp",
+        "fullWidth": 846,
+        "fullHeight": 472
+      },
+      {
+        "src": "media/healing-center-05.webp",
+        "small": "media/healing-center-05-small.webp",
+        "width": 1800,
+        "height": 1001,
+        "smallWidth": 900,
+        "full": "media/healing-center-05-full.webp",
+        "fullWidth": 849,
+        "fullHeight": 472
+      },
+      {
+        "src": "media/healing-center-06.webp",
+        "small": "media/healing-center-06-small.webp",
+        "width": 1800,
+        "height": 1012,
+        "smallWidth": 900,
+        "full": "media/healing-center-06-full.webp",
+        "fullWidth": 2048,
+        "fullHeight": 1152
+      }
+    ],
+    "drawings": [
+      {
+        "src": "media/healing-center-drawing-01.webp",
+        "small": "media/healing-center-drawing-01-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 1,
+        "text": "01\nCANCER HEALING CENTER\nSite & landscape plan\nExisting project geometry | Landscape and building organisation\nARCHITECTURAL PORTFOLIO\nPresentation issue | Geometry derived from supplied project files\nA2  /  594 x 420 mm\nPrint at 100% to retain stated scales\nH-101\n01  /  15.09.2026\n240.79 m\n163.57 m\nTHE HEALING LANDSCAPE\nAn open centre\nClinical wings are arranged around the\ncentral gardens, with perimeter arrival and\nparking.\nDrawing basis\nPlan linework is extracted from the supplied\nhospital CAD. Colour is added for\npresentation.\nReading the drawing\nOverall dimensions show the selected drawing\nextents. Orientation follows the source\nlayout.\nBuilding linework\nInterior spaces\nLandscape zones\n0\n15\n30 m\n1:600 @ A2\n"
+      },
+      {
+        "src": "media/healing-center-drawing-02.webp",
+        "small": "media/healing-center-drawing-02-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 2,
+        "text": "01\nCANCER HEALING CENTER\nClinical level - dimensioned plan\nShop drawing presentation | Reference axes, bay dimensions and room key\nARCHITECTURAL PORTFOLIO\nPresentation issue | Geometry derived from supplied project files\nA2  /  594 x 420 mm\nPrint at 100% to retain stated scales\nH-102\n02  /  15.09.2026\nB\nB\nC\nC\nE\nE\nH\nH\nI\nI\nA\nA\nD\nD\nF\nF\nG\nG\nJ\nJ\nK\nK\nL\nL\nN\nN\nP\nP\nO\nO\nR\nR\nR\nR\nT\nT\nT\nT\nK\nK\nM\nM\nQ\nQ\nS\nS\nU\nU\nV\nV\nW\nX\nX\nY\nY\nZ\nZ\nAA\nAA\n1\n1\n4\n4\n5\n5\n6\n6\n8\n8\n10\n10\n12\n12\n14\n14\n16\n16\n17\n18\n18\n19\n19\n21\n21\n23\n23\n24\n24\n25\n25\n26\n26\n27\n27\n28\n28\n29\n29\n30\n30\n2\n2\n3\n3\n5\n5\n7\n7\n9\n9\n11\n11\n13\n13\n15\n15\n17\n17\n20\n20\n22\n29\n29\n30\n30\nAB\nAC\nAC\nAD\nAD\nAE\nAE\nAF\n153.00 m\n104.39 m\n6700\n6800\n7125\n7350\n7050\n7275\n7075\n7325\n9000\n7200\n14400\n13500\n6304\n5546\n5250\n7050\n5475\n5650\n5225\n10800\n7123\n7354\n7201\n7201\n8026\n18194\n7200\n7201\n10801\nSR\nWC\nWC\nSR\nSR\nSR\nSR\nSR\nDR\nPH\nNS\nLIFT\nLIFT\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nDR\nDR\nWC\nWC\nLOBBY\nEX\nISO\nLIFT\nADM\nEX\nEX\nEX\nCAFE\nKIT\nADM\nADM\nLIFT\nLIFT\nLOBBY\nLIFT\nLOBBY\nADM\nSR\nCTRL\nWAIT\nREST\nO2\nO2\nREST\nNS\nLK\nONC\nINFUSION\nLAB\nEX\nDIRTY\nCLEAN\nWC\nEX\nLAB\nWAIT\nNS\nLK\nDIRTY\nCLEAN\nNS\nWC\nWC\nWC\nWC\nNS\nDOC\nADM\nST\nNS\nPH\nONC\nLAB\nD1 / H-105\nDRAWING INFORMATION\nAxes and dimensions\nSelected axes retain the exact source CAD\npositions and inclinations. Reference\nnumbers and letters are added for this\nissue.\nUnits\nBay dimensions are in mm, projected parallel\nto the sheet axes. Overall extents are\nexplicitly labelled in metres.\nD1 / H-105\nEnlarged patient room and support area at\n1:100 with clear room dimensions and\nmeasured opening widths.\nRoom key\nSR single room; DR double room; NS nursing;\nEX examination; PH pharmacy; WC toilet; LIFT\nlift.\nIssue purpose\nArchitectural portfolio presentation based\non the supplied design.\nBuilding geometry\nInterior infill\nSelected CAD axes\n0\n10\n20 m\n1:400 @ A2\n"
+      },
+      {
+        "src": "media/healing-center-drawing-03.webp",
+        "small": "media/healing-center-drawing-03-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 3,
+        "text": "01\nCANCER HEALING CENTER\nUpper level - dimensioned plan\nShop drawing presentation | Selected source grid and dimension chains\nARCHITECTURAL PORTFOLIO\nPresentation issue | Geometry derived from supplied project files\nA2  /  594 x 420 mm\nPrint at 100% to retain stated scales\nH-103\n03  /  15.09.2026\nA\nA\nB\nB\nD\nD\nF\nF\nH\nH\nC\nC\nE\nE\nG\nG\nI\nI\nJ\nJ\nK\nK\nL\nL\nL\nL\nM\nM\nM\nM\nO\nO\nO\nO\nP\nP\nP\nP\nJ\nJ\nK\nK\nL\nL\nM\nM\nN\nN\nQ\nQ\nR\nR\nS\nS\nT\nT\nU\nU\nV\nV\nW\nX\nX\nY\nY\nZ\nZ\n1\n1\n3\n3\n5\n5\n7\n7\n9\n11\n11\n13\n13\n15\n15\n17\n17\n20\n20\n21\n21\n22\n22\n23\n23\n25\n25\n26\n26\n27\n27\n28\n28\n29\n29\n30\n32\n32\n33\n33\n2\n2\n4\n4\n6\n6\n8\n8\n10\n10\n12\n12\n14\n14\n16\n16\n18\n18\n19\n19\n24\n24\n25\n25\n31\n31\n33\n33\nAA\nAB\nAB\nAC\nAC\nAD\nAD\nAE\nAE\nAF\nAF\n153.00 m\n104.39 m\n7200\n7200\n7200\n7200\n7200\n7200\n7200\n7200\n7200\n7200\n7200\n3600\n7200\n7200\n7200\n7200\n7200\n7200\n3600\n7201\n7201\n7201\n7201\n7200\n7200\n7200\n7200\nSR\nWC\nWC\nSR\nSR\nSR\nSR\nSR\nDR\nPH\nNS\nLIFT\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nSR\nDR\nDR\nWC\nWC\nLOBBY\nLIFT\nRES\nLIFT\nSR\nWC\nNS\nWC\nWC\nST\nLIFT\nICU\nICU\nNS\nCL\nCL\nCL\nCL\nCL\nCL\nCL\nCL\nCL\nCL\nCL\nCL\nUPPER LEVEL\nReference grid\nSelected lines from the original CAD grid\nlayer are shown. Numbering is specific to\nthis level and does not assert structural\nalignment between levels.\nDimensions\nBay dimensions in mm; overall extents in\nmetres. Lines and angles retain the source\ngeometry.\nSpaces\nPatient care, consultation and support\nspaces follow the CAD room layout.\nRoom key\nSR single room; DR double room; ICU\nintensive care; CL consultation; NS nursing;\nWC toilet; LIFT lift.\nEditable drawing\nModel geometry and dimensions are at full\nsize in millimetres. Paper layouts are at\nthe stated scale.\nBuilding linework\nInterior spaces\nSelected reference grid\n0\n10\n20 m\n1:400 @ A2\n"
+      },
+      {
+        "src": "media/healing-center-drawing-04.webp",
+        "small": "media/healing-center-drawing-04-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 4,
+        "text": "01\nCANCER HEALING CENTER\nLower level - dimensioned plan\nShop drawing presentation | Procedure, treatment and support spaces\nARCHITECTURAL PORTFOLIO\nPresentation issue | Geometry derived from supplied project files\nA2  /  594 x 420 mm\nPrint at 100% to retain stated scales\nH-104\n04  /  15.09.2026\nA\nA\nB\nB\nC\nC\nD\nD\nE\nE\nE\nF\nF\nG\nG\nH\nH\nI\nI\nJ\nJ\nK\nK\nL\nL\n1\n1\n2\n2\n2\n3\n3\n4\n4\n4\n5\n5\n5\n6\n6\n7\n7\n8\n8\n9\n9\n10\n10\n11\n11\n12\n12\n13\n13\n14\n14\n15\n15\n16\n16\n115.20 m\n84.24 m\n9212\n10702\n7399\n6797\n7291\n7200\n7212\n8562\n5838\n18953\n6188\n18054\n7395\nLIFT\nLIFT\nLIFT\nLIFT\nKIT\nOR\nCSSD\nOR\nOR\nOR\nWC\nPRE-OP\nPACU\nLINAC\nLINAC\nCTRL\nCTRL\nWC\nWC\nCT\nST\nST\nST\nST\nST\nST\nST\nST\nST\nST\nST\nST\nLOWER LEVEL\nReference axes\nSelected source CAD axes are retained,\nincluding the slight rotation of individual\nwings. Labels are added for this issue.\nDimensions\nBay dimensions in mm; overall extents in\nmetres. Internal subdivisions remain as\ndrawn.\nTreatment and service\nOperating theatres, radiotherapy, recovery,\nstorage and sterilisation spaces follow the\nsupplied plan.\nRoom key\nOR operating room; ST store; CSSD\nsterilisation; CT simulator; LINAC\ntreatment; WC toilet; LIFT lift.\nBuilding linework\nInterior infill\nSelected CAD axes\n0\n7.5\n15 m\n1:300 @ A2\n"
+      },
+      {
+        "src": "media/healing-center-drawing-05.webp",
+        "small": "media/healing-center-drawing-05-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 5,
+        "text": "01\nCANCER HEALING CENTER\nPatient rooms - enlarged plan\nD1 from H-102 | Clear room sizes, opening widths and source reference axes\nARCHITECTURAL PORTFOLIO\nPresentation issue | Geometry derived from supplied project files\nA2  /  594 x 420 mm\nPrint at 100% to retain stated scales\nH-105\n05  /  15.09.2026\nK\nK\nL\nL\nN\nN\nP\nP\n8\n8\n10\n10\n12\n12\n14\n14\n16\n16\n17\n17\n39.00 m\n22.00 m\n7050\n7275\n7075\n7325\n3450\n5326\n3450\n5326\n3525\n5326\n3450\n6101\n3522\n6101\n5250\n5326\n1650\n3750\n1525\n3752\n1200\n1200\n1200\nWC\nPH\nLIFT\nSR\nSR\nSR\nSR\nSR\nSR\nLOBBY\nLIFT\nNS\nDETAIL D1\n1:100 / Dimensions in mm\nClear dimensions are measured between wall\nfaces drawn in the source CAD. Opening\nwidths are measured between the drawn jambs.\nReference axes\nAxis labels refer back to the clinical\noverview H-102. The dashed boundary there\nidentifies this crop.\nRoom key\nSR single room; NS nursing; PH pharmacy;\nLIFT lift; WC toilet; LOBBY common\ncirculation.\nDrawing limits\nThe detail is a crop through a continuous\nwing. Overall extents refer to the detail\nwindow.\nMeasurement basis\nDimensions follow the source wall faces. Bay\nchains use horizontal projection; opening\nwidths use the actual jamb-to-jamb distance.\nWalls and jambs\nSource axes\nPATIENT WING / SELECTED DETAIL\nWidths and depths are measured from CAD. Partition faces and existing openings remain as drawn.\n0\n2.5\n5 m\n1:100 @ A2\n"
+      },
+      {
+        "src": "media/healing-center-drawing-06.webp",
+        "small": "media/healing-center-drawing-06-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 6,
+        "text": "01\nCANCER HEALING CENTER\nLongitudinal section & enlargements\nCAD section A-A | Original cut line and two wing studies\nARCHITECTURAL PORTFOLIO\nPresentation issue | Geometry derived from supplied project files\nA2  /  594 x 420 mm\nPrint at 100% to retain stated scales\nH-201\n06  /  15.09.2026\nA-A  /  FULL SOURCE SECTION\n153.00 m\n11.30 m\n+0.000 m\n+4.300 m\n+7.800 m\n+11.300 m\nCAD DATUMS\n1:400 @ A2   /   Both wings retain their original alignment and vertical relationship.\nS1  /  THREE-LEVEL WING\n88.20 m\n11.30 m\nSource span 88.20 m | Overall cut height 11.30 m | Scale 1:300\nS2  /  TWO-LEVEL WING\n52.20 m\n7.30 m\nSource span 52.20 m | Cut height 7.30 m | 1:250\nSOURCE: section1.dwg\nS1 and S2 are enlargements of the two parts of A-A, not additional invented section cuts.\nMeasured main slab datums from the CAD: +0.00, +4.30, +7.80 and +11.30 m relative to the lowest drawn line.\nCAD section and 3ds Max facade heights differ; each drawing retains its own source geometry.\n"
+      },
+      {
+        "src": "media/healing-center-drawing-07.webp",
+        "small": "media/healing-center-drawing-07-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 7,
+        "text": "01\nCANCER HEALING CENTER\nTwo facade studies\nOrthographic elevations extracted from the supplied 3ds Max building model\nARCHITECTURAL PORTFOLIO\nPresentation issue | Geometry derived from supplied project files\nA2  /  594 x 420 mm\nPrint at 100% to retain stated scales\nH-301\n07  /  15.09.2026\nE1  /  LONG FRONTAGE\n1:300\n153.12 m\n14.00 m\nE2  /  RETURN FRONTAGE\n1:300\n104.73 m\n14.00 m\nMODEL GEOMETRY, PRESENTATION TONES\nFacade outlines and openings come from the source model. Stone, glazing and screen tones are graphic presentation colours.\nE1 looks along model -X; E2 looks along model +Y. Compass orientation is not assumed.\nThe editable CAD contains visible edge linework. The PDF adds a tonal surface rendering from the same mesh.\n0\n7.5\n15 m\n1:300 @ A2\n"
+      }
+    ]
+  },
+  "ain-tarma": {
+    "folder": "02",
+    "images": [
+      {
+        "src": "media/ain-tarma-01.webp",
+        "small": "media/ain-tarma-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/ain-tarma-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/ain-tarma-02.webp",
+        "small": "media/ain-tarma-02-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/ain-tarma-02-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/ain-tarma-03.webp",
+        "small": "media/ain-tarma-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/ain-tarma-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/ain-tarma-04.webp",
+        "small": "media/ain-tarma-04-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/ain-tarma-04-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      }
+    ],
+    "drawings": []
+  },
+  "al-hafez": {
+    "folder": "03",
+    "images": [
+      {
+        "src": "media/al-hafez-01.webp",
+        "small": "media/al-hafez-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-hafez-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-hafez-02.webp",
+        "small": "media/al-hafez-02-small.webp",
+        "width": 1800,
+        "height": 1014,
+        "smallWidth": 900,
+        "full": "media/al-hafez-02-full.webp",
+        "fullWidth": 1671,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-hafez-03.webp",
+        "small": "media/al-hafez-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-hafez-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      }
+    ],
+    "drawings": []
+  },
+  "al-tall-villa": {
+    "folder": "04",
+    "images": [
+      {
+        "src": "media/al-tall-villa-01.webp",
+        "small": "media/al-tall-villa-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-tall-villa-02.webp",
+        "small": "media/al-tall-villa-02-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-02-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-tall-villa-03.webp",
+        "small": "media/al-tall-villa-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-tall-villa-04.webp",
+        "small": "media/al-tall-villa-04-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-04-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-tall-villa-05.webp",
+        "small": "media/al-tall-villa-05-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-05-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      }
+    ],
+    "drawings": [
+      {
+        "src": "media/al-tall-villa-drawing-01.webp",
+        "small": "media/al-tall-villa-drawing-01-small.webp",
+        "width": 2263,
+        "height": 3200,
+        "smallWidth": 900,
+        "page": 1,
+        "text": "04\nAL-TAL VILLA\nGround floor\nDimensioned floor plan / Architectural reference axes\nARCHITECTURAL PORTFOLIO\nA2 / 420 x 594 mm / Print at 100%\nV-101\n01 / 15.09.2026\n1\n1\n2\n2\n3\n3\n4\n4\nA\nA\nB\nB\nC\nC\nD\nD\n13.20 m\n16.97 m\n4605\n2389\n5127\n4276\n5499\n2663\n3887\n3820\n4058\n3845\n4416\n5409\n3100\n4488\n3916\n1897\n3064\n1600\n486\n1800\n1629\n700\n900\n1266\n4065\n1371\nKITCHEN\nRECEPTION\nWC\nLIVING\nDINING\nENTRANCE\n01 / DIMENSION BASIS\nDimensions in mm; overall extents in metres. Internal\nmeasurements follow the dimension witness points in the\noriginal CAD.\n02 / REFERENCE AXES\nNumbered and lettered architectural references locate\nselected drawn wall centres. New reference labels are\nadded for this portfolio issue.\n03 / SOURCE GEOMETRY\nWalls, door swings, stairs and balconies follow the supplied\nCAD. Written dimension overrides are replaced by measured\ngeometry values.\n0\n2.5\n5 m\n1:50 @ A2\n"
+      },
+      {
+        "src": "media/al-tall-villa-drawing-02.webp",
+        "small": "media/al-tall-villa-drawing-02-small.webp",
+        "width": 2263,
+        "height": 3200,
+        "smallWidth": 900,
+        "page": 2,
+        "text": "04\nAL-TAL VILLA\nFirst floor\nDimensioned floor plan / Architectural reference axes\nARCHITECTURAL PORTFOLIO\nA2 / 420 x 594 mm / Print at 100%\nV-102\n02 / 15.09.2026\n1\n1\n2\n2\n3\n3\n4\n4\nA\nA\nB\nB\nC\nC\nD\nD\n13.20 m\n15.64 m\n4605\n2389\n5127\n4276\n5499\n2663\n4064\n8000\n1917\n3064\n3064\n1917\n700\n1000\n4424\n5279\n700\n700\n7335\n4056\n3674\n4961\n1600\n2030\n1100\n300\n1175\n1207\n2663\n2350\n5559\nMASTER BEDROOM\nWC\nBEDROOM\nFAMILY LOUNGE\nBEDROOM\nWC\nWC\n01 / DIMENSION BASIS\nDimensions in mm; overall extents in metres. Internal\nmeasurements follow the dimension witness points in the\noriginal CAD.\n02 / REFERENCE AXES\nNumbered and lettered architectural references locate\nselected drawn wall centres. New reference labels are\nadded for this portfolio issue.\n03 / SOURCE GEOMETRY\nWalls, door swings, stairs and balconies follow the supplied\nCAD. Written dimension overrides are replaced by measured\ngeometry values.\n0\n2.5\n5 m\n1:50 @ A2\n"
+      },
+      {
+        "src": "media/al-tall-villa-drawing-03.webp",
+        "small": "media/al-tall-villa-drawing-03-small.webp",
+        "width": 2263,
+        "height": 3200,
+        "smallWidth": 900,
+        "page": 3,
+        "text": "04\nAL-TAL VILLA\nSecond floor\nDimensioned floor plan / Architectural reference axes\nARCHITECTURAL PORTFOLIO\nA2 / 420 x 594 mm / Print at 100%\nV-103\n03 / 15.09.2026\n1\n1\n2\n2\n3\n3\n4\n4\nA\nA\nB\nB\nC\nC\nD\nD\n13.20 m\n15.64 m\n4605\n2389\n5127\n4276\n5499\n2663\n1100\n300\n1137\n1137\n3477\n3758\n4056\n3696\n3064\n1897\n4064\n3007\n1145\n3384\n3324\n5279\n3064\n6828\n4873\n1234\n700\n2350\n5559\nMASTER BEDROOM\nBEDROOM\nBEDROOM\nWC\nWC\nKITCHEN\nLIVING\nBALCONY\n01 / DIMENSION BASIS\nDimensions in mm; overall extents in metres. Internal\nmeasurements follow the dimension witness points in the\noriginal CAD.\n02 / REFERENCE AXES\nNumbered and lettered architectural references locate\nselected drawn wall centres. New reference labels are\nadded for this portfolio issue.\n03 / SOURCE GEOMETRY\nWalls, door swings, stairs and balconies follow the supplied\nCAD. Written dimension overrides are replaced by measured\ngeometry values.\n0\n2.5\n5 m\n1:50 @ A2\n"
+      },
+      {
+        "src": "media/al-tall-villa-drawing-04.webp",
+        "small": "media/al-tall-villa-drawing-04-small.webp",
+        "width": 2263,
+        "height": 3200,
+        "smallWidth": 900,
+        "page": 4,
+        "text": "04\nAL-TAL VILLA\nPrincipal elevation\nEntrance frontage / Orthographic projection from 3ds Max\nARCHITECTURAL PORTFOLIO\nA2 / 420 x 594 mm / Print at 100%\nV-201\n04 / 15.09.2026\nE1 / MAIN ENTRANCE\n1:50\n13.28 m\n14.73 m\n1320\n3585\n3600\n3600\n2629\n5861\n-1.320 m\nAPPROACH\n+0.000 m\nENTRANCE\n+3.585 m\nSLAB\n+7.185 m\nSLAB\n+10.785 m\nROOF\n+13.414 m\nUPPER ROOF\nMAIN ENTRANCE FACADE\nVisible architectural edges and openings are extracted from 3d villa.max. The view looks\nalong model +Y towards the entrance.\nMODEL LEVELS\nLevels refer to horizontal faces in the source model. The entrance platform is +0.000 m;\napproach steps descend to -1.320 m.\nSOURCE DETAIL\nDoor-leaf ornament is omitted: the linked door mesh is absent from\nthe supplied project. Frame and openings follow the model.\n0\n2.5\n5 m\n1:50 @ A2\n"
+      }
+    ]
+  },
+  "damascene-restaurant": {
+    "folder": "05",
+    "images": [
+      {
+        "src": "media/damascene-restaurant-01.webp",
+        "small": "media/damascene-restaurant-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/damascene-restaurant-02.webp",
+        "small": "media/damascene-restaurant-02-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-02-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/damascene-restaurant-03.webp",
+        "small": "media/damascene-restaurant-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/damascene-restaurant-04.webp",
+        "small": "media/damascene-restaurant-04-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-04-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/damascene-restaurant-05.webp",
+        "small": "media/damascene-restaurant-05-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-05-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      }
+    ],
+    "drawings": []
+  },
+  "al-tall-duplex": {
+    "folder": "i 01",
+    "images": [
+      {
+        "src": "media/al-tall-duplex-01.webp",
+        "small": "media/al-tall-duplex-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-duplex-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-tall-duplex-02.webp",
+        "small": "media/al-tall-duplex-02-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-duplex-02-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-tall-duplex-03.webp",
+        "small": "media/al-tall-duplex-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-duplex-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/al-tall-duplex-04.webp",
+        "small": "media/al-tall-duplex-04-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-duplex-04-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      }
+    ],
+    "drawings": [
+      {
+        "src": "media/al-tall-duplex-drawing-01.webp",
+        "small": "media/al-tall-duplex-drawing-01-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 1,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nLiving / TV and library\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-201\n01 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n349.5\n330.0\n0.0\nW01\nLOCATION / NTS\n243.2\n106.3\n136.2\n90.9\n242.9\n45.5\n12.4\n37.5\n183.8\n50.8\n02 / LIBRARY JOINERY\n1:10\n38.4\n34.7\n27.5\n17.0\n42.5\n22.8\n35.0\n52.9\n35.7\n34.9\n35.7\n106.3\nDETAIL DIMENSIONS / cm\nLibrary: 106.3 W x 270.9 H x 36.7 D\nOpen shelves: 33.1 W x 31.9 D x 1.05 thick\nCarcass uprights: 1.7 / back panels: 1.8 thick\nTop chain locates internal stile centres.\nShelf top levels from floor:\nS1: 96.3\nS2: 131.0\nS3: 158.5\nS4: 175.5\nS5: 218.0\nS6: 240.8\nS7: 275.8\nPanel joints and TV outline follow the model. Cabinet fixings and concealed supports are not\nmodelled.\n"
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-02.webp",
+        "small": "media/al-tall-duplex-drawing-02-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 2,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nEntrance / feature lighting wall\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-202\n02 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n280.0\n330.0\n0.0\nW02\nLOCATION / NTS\n18.0\n29.6\n25.8\n32.0\n32.1\n34.5\n32.8\n35.9\n39.3\nL1\n80.0\nL2\n89.8\nL3\n102.8\nL4\n115.2\nL5\n128.5\nL6\n145.8\nL7\n160.0\nL8\n169.9\n16.7\n02 / LIGHT RECESSES\n1:10\n2.56\n145.8\n2.53\n160.0\n2.5\n169.9\nRECESS SET-OUT / cm\nSlot / start X / width / length / lower level\nL1 / 16.6 / 2.69 / 80.0 / 250.0\nL2 / 46.4 / 2.44 / 89.8 / 240.2\nL3 / 72.5 / 1.94 / 102.8 / 227.2\nL4 / 104.3 / 2.14 / 115.2 / 214.8\nL5 / 136.3 / 2.36 / 128.5 / 201.5\nL6 / 170.7 / 2.56 / 145.8 / 184.2\nL7 / 203.5 / 2.53 / 160.0 / 170.0\nL8 / 239.5 / 2.5 / 169.9 / 160.1\nSOURCE DETAIL\nEight variable-length recesses.\nBase plinth top: 16.7 above floor.\nCeiling return follows the source mesh.\nLight recess positions are measured in the wall face. Luminaire fittings and electrical wiring\nare not modelled.\n"
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-03.webp",
+        "small": "media/al-tall-duplex-drawing-03-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 3,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nEntrance / timber console wall\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-203\n03 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n291.7\n330.0\n0.0\nW03\nLOCATION / NTS\n167.8\n12.6\n70.0\n193.4\n98.3\n02 / PANEL DIVISIONS\n1:5\n16.5\n16.5\n16.5\n16.5\n03 / CONSOLE SECTION A-A\n1:5\n31.3\n12.6\nA\nTIMBER AND CONSOLE / cm\nConsole width: 167.8 / depth: 30.0\nConsole underside: 70.0 / thickness: 12.6\nBacking field: 193.4 / panel zone: 98.3\nPanel pitch: 5 x 16.5 + terminal bay 15.7\nModel backing maximum depth: 20.0\nThe entrance mirror proxy contains only a placeholder. Its shape and fixing dimensions are\nomitted.\n"
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-04.webp",
+        "small": "media/al-tall-duplex-drawing-04-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 4,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nEntrance / timber portal\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-204\n04 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n389.6\n330.0\n0.0\nW04\nLOCATION / NTS\n45.0\n299.6\n45.0\n02 / RIGHT PILASTER\n1:12.5\n5.9\n124.9\n18.3\n79.2\n26.8\n68.9\n5.9\n45.0\nPILASTER SET-OUT / cm\nEach pilaster: 45.0 W x 330.0 H\nCentral clear opening: 299.6\nTop, bottom and side borders: 5.9\nInternal horizontal module: 4.74\nRight vertical break levels:\n5.9 / 130.8 / 149.1 / 228.3 / 255.2 / 324.1\nPanel depth from source: 2.01\nLeft and right front profiles are repeated.\nThe slots and stepped ends follow the supplied mesh. Use the enlarged view with the listed break\nlevels.\n"
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-05.webp",
+        "small": "media/al-tall-duplex-drawing-05-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 5,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nDining / mirror wall\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-205\n05 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n266.3\n330.0\n0.0\nW05\nLOCATION / NTS\n103.2\n112.5\n37.5\n103.2\n125.6\n113.0\n112.5\n104.5\n02 / MIRROR AND RIM\n1:10\n101.9\n111.0\nMIRROR SET-OUT / cm\nOuter size: 103.2 W x 112.5 H\nCentre X from left: 89.1\nCentre above floor: 169.3\nGlass: 101.9 W x 111.0 H\nOverall profile depth: 1.51\nGlass mesh depth: 1.15\nRim offset: 0.68 horizontal / 0.75 vertical\nMODEL GEOMETRY\nThe source mirror is slightly oval.\nWidth and height are dimensioned separately.\nMirror dimensions retain the source proportions. Concealed mounting brackets are not present in\nthe model.\n"
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-06.webp",
+        "small": "media/al-tall-duplex-drawing-06-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 6,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nReception / media wall\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-206\n06 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n280.6\n330.0\n0.0\nW06\nLOCATION / NTS\n212.3\n181.0\n125.4\n74.1\n236.6\n45.0\n26.9\n15.1\n180.9\n62.1\n02 / LOWER WALL SECTION A-A\n1:5\n52.1\n10.1\n29.7\n5.2\n11.7\n15.2\n15.1\nA\nMEDIA WALL / cm\nStone panel: 212.3 W x 180.9 H\nStone panel base / top: 87.0 / 267.9\nTV housing: 125.4 W x 74.1 H\nTV housing base: 122.4\nLow cabinet: 236.6 W x 45.0 H x 45.0 D\nUpper ledge: 176.1 W x 15.2 H x 50.0 D\nLedge underside / top: 56.7 / 71.9\nStone panel maximum thickness: 7.0\nSeparate cabinet, ledge and panel parts retain their original positions. The section is cut\nthrough the model.\n"
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-07.webp",
+        "small": "media/al-tall-duplex-drawing-07-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 7,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nReception / panelled wall\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-207\n07 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n448.0\n330.0\n0.0\nW07\nLOCATION / NTS\n59.2\n95.4\n4.17\n130.6\n4.17\n95.4\n59.1\n85.4\n225.4\n55.7\n02 / FLUTED LOWER BAND\n1:2\n1.44\n1.7\n03 / VERTICAL INLAY\n1:2\n4.17\nPANEL AND INLAY / cm\nOuter timber fields: 59.2 left / 59.1 right\nStone fields: 95.4 / 130.6 / 95.4\nVertical inlays: 4.17 each\nFlute pitch: 1.44\nHorizontal band: 55.7 to 57.4 above floor\nHorizontal band height: 1.7\nMirror field: 85.4 W x 225.4 H\nMirror field base / top: 82.0 / 307.4\nComponent widths are measured from source mesh boundaries. Material tones are simplified for\npresentation.\n"
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-08.webp",
+        "small": "media/al-tall-duplex-drawing-08-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 8,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nReception / corner shelving\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-208\n08 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n115.5\n330.0\n0.0\nW08\nLOCATION / NTS\n19.0\n18.0\n60.4\n18.0\n330.0\n02 / SHELF STACK\n1:5\n5\n49.6\n5\n49.6\n5\nSHELVING DIMENSIONS / cm\nBacking width: 96.4 / depth: 2.1\nFluted sides: 18.0 each / centre: 60.4\nFlute pitch: 0.93 / relief: 0.1\nSmall shelves: 18.0 W x 15.0 D x 5.0 thick\nShelf underside levels: 101.7 / 156.3 / 210.8\nLower side shelf: 50.0 W x 15.0 D x 5.0 thick\nLower side shelf underside: 50.5\nCorner shelf underside / top: 62.6 / 67.6\nThe central mirror proxy is missing. The backing, fluted fields and shelves are dimensioned from\navailable geometry.\n"
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-09.webp",
+        "small": "media/al-tall-duplex-drawing-09-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 9,
+        "text": "I 01\nAL-TAL VILLA / INTERIOR DETAILS\nReception / shelving return\nDimensioned wall elevation + detail studies / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nModel datum: floor 0.0 / ceiling 330.0\nI-209\n09 / 15.09.2026\n01 / FEATURE ELEVATION\n1:20\n107.1\n330.0\n0.0\nW09\nLOCATION / NTS\n70.8\n22.0\n70.8\n14.2\n62.6\n5\n34.1\n54.6\n54.6\n119.2\n02 / CORNER SHELF\n1:10\n107.1\n5\nSHELVING DIMENSIONS / cm\nReturn width: 107.1\nMain corner shelf: 107.1 W x 69.0 max D\nCorner shelf thickness: 5.0\nCorner shelf underside: 62.6\nSmall shelves: 22.3 W x 9.3 D x 5.0 thick\nSmall shelf underside levels: 101.7 / 156.3 / 210.8\nWindow frame context retained from model.\nThis is the perpendicular return of W08. Each face is issued on its own sheet; shelf dimensions\nfollow the same source unit.\n"
+      }
+    ]
+  },
+  "neoclassical": {
+    "folder": "i 02",
+    "images": [
+      {
+        "src": "media/neoclassical-01.webp",
+        "small": "media/neoclassical-01-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-01-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/neoclassical-02.webp",
+        "small": "media/neoclassical-02-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-02-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/neoclassical-03.webp",
+        "small": "media/neoclassical-03-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-03-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/neoclassical-04.webp",
+        "small": "media/neoclassical-04-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-04-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/neoclassical-05.webp",
+        "small": "media/neoclassical-05-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-05-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      }
+    ],
+    "drawings": [
+      {
+        "src": "media/neoclassical-drawing-01.webp",
+        "small": "media/neoclassical-drawing-01-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 1,
+        "text": "I 02\nNEOCLASSICAL ROOM / WALL ELEVATIONS\nWall 01 / Fireplace and decorative panels\nInterior shop drawing study / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nSource: classic.max / Orthographic projection\nN-201\n01 / 15.09.2026\nFULL WALL ELEVATION\nSCALE 1:20\n574.0\n376.3\n46.0\n86.0\n46.0\n46.0\n86.0\n46.0\n29.9\n186.0\n162.6\n186.0\n9.44\n7\n86.0\n4\n196.0\n7\n76.3\n195.3\n143.3\n134.5\nP1\nP2\nP3\nP4\nF1\nPANEL SCHEDULE / cm\nType / outer W x H / inner W x H\nP1 / 46.0 x 196.0 / 23.0 x 173.0\nP2 / 86.0 x 196.0 / 63.0 x 173.0\nP3 / 46.0 x 86.0 / 23.0 x 63.0\nP4 / 86.0 x 86.0 / 63.0 x 63.0\nOuter-to-inner frame offset: 11.5\nClear horizontal and vertical joints: 4.0\nFIREPLACE AND CENTRAL FIELD / cm\nF1 / outer envelope: 195.3 W x 143.3 H\nF1 / base: 1.82 / top: 145.2\nF1 / centre X from left: 299.1\nCentral backing: 134.5 W x 178.0 H\nBacking bottom / top: 122.0 / 300.0\nCentral inset width: 86.0\nFireplace ornament: embedded proxy preview.\nCORNICE SET-OUT / cm\nWall head / highest profile: 300.0 / 376.3\nLower beading: 300.8 to 305.4\nUpper beading: 318.7 to 323.3\nBead size: 2.52 W x 4.59 H / pitch 2.69\nDentil band: 307.6 to 318.8 / pitch 10.74\nUpper fluted band: 338.7 to 368.1\nAll levels measured above model floor.\nF1 is derived from the embedded proxy preview; ornamental carving is indicative. Wall and panel dimensions follow the native scene.\n"
+      },
+      {
+        "src": "media/neoclassical-drawing-02.webp",
+        "small": "media/neoclassical-drawing-02-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 2,
+        "text": "I 02\nNEOCLASSICAL ROOM / WALL ELEVATIONS\nWall 02 / Entrance and pilasters\nInterior shop drawing study / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nSource: classic.max / Orthographic projection\nN-202\n02 / 15.09.2026\nFULL WALL ELEVATION\nSCALE 1:20\n775.0\n376.3\n68.5\n225.4\n225.3\n225.4\n30.5\n43.1\n298.6\n14.0\n36.0\n14.0\n36.0\n14.0\n14.0\n36.0\n14.0\n36.0\n14.0\n618.3\n100.0\n56.7\n100.0\n220.0\n220.0\n80.0\n76.3\nC1\nC2\nC3\nC4\nD1\nPILASTERS AND MOULDINGS / cm\nCapital envelope: 43.1 W\nTop above model floor: 298.6\nMaximum projection from back: 21.6\nReference ring levels: 5.9 / 13.0 / 265.3\nBottom dimension chain locates pilaster centres.\nVertical moulding profile: 2.5 / chains = centres\nBase profile extends 0.5 below model floor.\nENTRANCE OPENING / cm\nD1 / model wall opening: 100.0 W x 220.0 H\nOpening left X from wall left: 618.3\nOpening right return: 56.7\nDoor frame geometry retained where visible.\nDoor and pilasters retain their source overlap.\nPlain wall fields are shown as modelled.\nCORNICE SET-OUT / cm\nWall head / highest profile: 300.0 / 376.3\nLower beading: 300.8 to 305.4\nUpper beading: 318.7 to 323.3\nBead size: 2.52 W x 4.59 H / pitch 2.69\nDentil band: 307.6 to 318.8 / pitch 10.74\nUpper fluted band: 338.7 to 368.1\nAll levels measured above model floor.\nWall with the entrance opening. Dimensions refer to the wall opening and pilaster envelopes; the original door/frame alignment is retained.\n"
+      },
+      {
+        "src": "media/neoclassical-drawing-03.webp",
+        "small": "media/neoclassical-drawing-03-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 3,
+        "text": "I 02\nNEOCLASSICAL ROOM / WALL ELEVATIONS\nWall 03 / Opposite decorative wall\nInterior shop drawing study / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nSource: classic.max / Orthographic projection\nN-203\n03 / 15.09.2026\nFULL WALL ELEVATION\nSCALE 1:20\n574.0\n376.3\n46.0\n86.0\n46.0\n46.0\n86.0\n46.0\n9.44\n186.0\n162.6\n186.0\n29.9\n7\n86.0\n4\n196.0\n7\n76.3\nP1\nP2\nP3\nP4\nPANEL SCHEDULE / cm\nType / outer W x H / inner W x H\nP1 / 46.0 x 196.0 / 23.0 x 173.0\nP2 / 86.0 x 196.0 / 63.0 x 173.0\nP3 / 46.0 x 86.0 / 23.0 x 63.0\nP4 / 86.0 x 86.0 / 63.0 x 63.0\nOuter-to-inner frame offset: 11.5\nClear horizontal and vertical joints: 4.0\nFRAME SET-OUT / cm\nP1 and P2 bottom / top: 97.0 / 293.0\nP3 and P4 bottom / top: 7.0 / 93.0\nCentre fields retain measured source sizes.\nP1 centre field: 17.0 W x 167.0 H\nP2 centre field: 57.0 W x 167.0 H\nP3 centre field: 17.0 W x 57.0 H\nP4 centre field: 57.5 W x 57.1 H\nCORNICE SET-OUT / cm\nWall head / highest profile: 300.0 / 376.3\nLower beading: 300.8 to 305.4\nUpper beading: 318.7 to 323.3\nBead size: 2.52 W x 4.59 H / pitch 2.69\nDentil band: 307.6 to 318.8 / pitch 10.74\nUpper fluted band: 338.7 to 368.1\nAll levels measured above model floor.\nWall opposite the fireplace. Repeated moulding types use the panel schedule; the central plain field follows the supplied model.\n"
+      },
+      {
+        "src": "media/neoclassical-drawing-04.webp",
+        "small": "media/neoclassical-drawing-04-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 4,
+        "text": "I 02\nNEOCLASSICAL ROOM / WALL ELEVATIONS\nWall 04 / Windows and pilasters\nInterior shop drawing study / ALL DIMENSIONS IN cm\nARCHITECTURAL PORTFOLIO\nA2 / 594 x 420 mm / Print at 100%\nCENTIMETRES\nSource: classic.max / Orthographic projection\nN-204\n04 / 15.09.2026\nFULL WALL ELEVATION\nSCALE 1:20\n775.0\n376.3\n30.5\n225.4\n225.3\n225.4\n68.5\n43.1\n298.6\n14.0\n36.0\n14.0\n36.0\n14.0\n45.0\n200.0\n250.0\n200.0\n80.0\n200.0\n140.0\n200.0\n140.0\n80.0\n140.0\n80.0\n76.3\nC1\nC2\nC3\nC4\nW1\nW2\nPILASTERS AND MOULDINGS / cm\nCapital envelope: 43.1 W\nTop above model floor: 298.6\nMaximum projection from back: 21.6\nReference ring levels: 5.9 / 13.0 / 265.3\nBottom dimension chain locates pilaster centres.\nVertical moulding profile: 2.5 / chains = centres\nBase profile extends 0.5 below model floor.\nWINDOW OPENINGS / cm\nW1 and W2: 200.0 W x 140.0 H\nSill / head: 80.0 / 220.0\nGlazed field: 190.0 W x 130.0 H\nFrame face: 5.0 around glazing\nWindow left X values: 45.0 / 495.0\nCurtains omitted to expose wall openings.\nWindow reveals follow the source mesh.\nCORNICE SET-OUT / cm\nWall head / highest profile: 300.0 / 376.3\nLower beading: 300.8 to 305.4\nUpper beading: 318.7 to 323.3\nBead size: 2.52 W x 4.59 H / pitch 2.69\nDentil band: 307.6 to 318.8 / pitch 10.74\nUpper fluted band: 338.7 to 368.1\nAll levels measured above model floor.\nWall with two windows. Curtains and loose furniture are omitted so the opening sizes, pilasters and wall profiles remain visible.\n"
+      }
+    ]
+  },
+  "paint-showroom": {
+    "folder": "i 03",
+    "images": [
+      {
+        "src": "media/paint-showroom-01.webp",
+        "small": "media/paint-showroom-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941
+      },
+      {
+        "src": "media/paint-showroom-02.webp",
+        "small": "media/paint-showroom-02-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-02-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/paint-showroom-03.webp",
+        "small": "media/paint-showroom-03-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-03-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/paint-showroom-04.webp",
+        "small": "media/paint-showroom-04-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-04-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/paint-showroom-05.webp",
+        "small": "media/paint-showroom-05-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-05-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      }
+    ],
+    "drawings": []
+  },
+  "open-plan-study": {
+    "folder": "i 04",
+    "images": [
+      {
+        "src": "media/open-plan-study-01.webp",
+        "small": "media/open-plan-study-01-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/open-plan-study-01-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/open-plan-study-02.webp",
+        "small": "media/open-plan-study-02-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/open-plan-study-02-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/open-plan-study-03.webp",
+        "small": "media/open-plan-study-03-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/open-plan-study-03-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      }
+    ],
+    "drawings": []
+  },
+  "bedroom-study": {
+    "folder": "i 05",
+    "images": [
+      {
+        "src": "media/bedroom-study-01.webp",
+        "small": "media/bedroom-study-01-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/bedroom-study-01-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/bedroom-study-02.webp",
+        "small": "media/bedroom-study-02-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/bedroom-study-02-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      },
+      {
+        "src": "media/bedroom-study-03.webp",
+        "small": "media/bedroom-study-03-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/bedroom-study-03-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086
+      }
+    ],
+    "drawings": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "al-tall-villa": {
+    "slug": "al-tall-villa",
+    "src": "media/al-tall-villa-film.mp4",
+    "duration": 30.05,
+    "width": 1280,
+    "height": 720,
+    "fps": 24.0,
+    "pixelsPerSecond": 64,
+    "bytes": 20379474,
+    "keyframeInterval": 6,
+    "sourceSha256": "eee9348543ec0479f8245a03517d797b8403296f5979d97e31e44c5eef1e9a6a"
+  },
+  "damascene-restaurant": {
+    "slug": "damascene-restaurant",
+    "src": "media/damascene-restaurant-film.mp4",
+    "duration": 15.07,
+    "width": 1280,
+    "height": 720,
+    "fps": 24.0,
+    "pixelsPerSecond": 75,
+    "bytes": 11588416,
+    "keyframeInterval": 6,
+    "sourceSha256": "61e1bd499ebd3b00cbb88447aed5440266785664d05d6a1516060683c2553bd1"
+  },
+  "neoclassical": {
+    "slug": "neoclassical",
+    "src": "media/neoclassical-film.mp4",
+    "duration": 20.06,
+    "width": 1280,
+    "height": 720,
+    "fps": 24.0,
+    "pixelsPerSecond": 72,
+    "bytes": 8844438,
+    "keyframeInterval": 6,
+    "sourceSha256": "c99326df92e5724e14fd261d727d587c0c9cc65c5b1804decca5a4064dd62fed"
+  },
+  "paint-showroom": {
+    "slug": "paint-showroom",
+    "src": "media/paint-showroom-film.mp4",
+    "duration": 20.06,
+    "width": 1280,
+    "height": 720,
+    "fps": 24.0,
+    "pixelsPerSecond": 72,
+    "bytes": 12143417,
+    "keyframeInterval": 6,
+    "sourceSha256": "80c65abf0dad9546709c96158086e2ecef8f4d23e445c48f7fe803f040c31e37"
+  },
+  "healing-center": {
+    "slug": "healing-center",
+    "src": "media/healing-center-film.mp4",
+    "duration": 30.05,
+    "width": 1280,
+    "height": 720,
+    "fps": 24.0,
+    "pixelsPerSecond": 78,
+    "bytes": 15854665,
+    "keyframeInterval": 6,
+    "sourceSha256": "68fd492b90e3699756e1d894a9ae42e82a7c80aeac9f444fea4ec43f0314e0a8"
+  }
+}

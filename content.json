@@ -1,0 +1,922 @@
+[
+  {
+    "id": "healing-center",
+    "number": "01",
+    "section": "Exterior",
+    "title": "Cancer Healing Center",
+    "type": "Graduation project · Healthcare",
+    "heading": "Architecture around the healing landscape.",
+    "body": "Low-rise volumes frame gardens and courtyards, bringing nature into the everyday experience of care. Shaded routes, planted edges and sheltered outdoor spaces connect the buildings and give the project its rhythm.",
+    "captions": [
+      "Low-rise buildings around a planted courtyard",
+      "The arrival facade",
+      "A courtyard sheltered by timber pergolas",
+      "A route through the healing garden",
+      "An accessible path along the landscaped edge",
+      "Stone, timber and the facade rhythm"
+    ],
+    "filmNote": "The construction sequence is a visual narrative of the design.",
+    "images": [
+      {
+        "src": "media/healing-center-01.webp",
+        "small": "media/healing-center-01-small.webp",
+        "width": 1800,
+        "height": 1012,
+        "smallWidth": 900,
+        "full": "media/healing-center-01-full.webp",
+        "fullWidth": 2048,
+        "fullHeight": 1152,
+        "caption": "Low-rise buildings around a planted courtyard"
+      },
+      {
+        "src": "media/healing-center-02.webp",
+        "small": "media/healing-center-02-small.webp",
+        "width": 1800,
+        "height": 1012,
+        "smallWidth": 900,
+        "full": "media/healing-center-02-full.webp",
+        "fullWidth": 2048,
+        "fullHeight": 1152,
+        "caption": "The arrival facade"
+      },
+      {
+        "src": "media/healing-center-03.webp",
+        "small": "media/healing-center-03-small.webp",
+        "width": 1800,
+        "height": 1005,
+        "smallWidth": 900,
+        "full": "media/healing-center-03-full.webp",
+        "fullWidth": 845,
+        "fullHeight": 472,
+        "caption": "A courtyard sheltered by timber pergolas"
+      },
+      {
+        "src": "media/healing-center-04.webp",
+        "small": "media/healing-center-04-small.webp",
+        "width": 1800,
+        "height": 1004,
+        "smallWidth": 900,
+        "full": "media/healing-center-04-full.webp",
+        "fullWidth": 846,
+        "fullHeight": 472,
+        "caption": "A route through the healing garden"
+      },
+      {
+        "src": "media/healing-center-05.webp",
+        "small": "media/healing-center-05-small.webp",
+        "width": 1800,
+        "height": 1001,
+        "smallWidth": 900,
+        "full": "media/healing-center-05-full.webp",
+        "fullWidth": 849,
+        "fullHeight": 472,
+        "caption": "An accessible path along the landscaped edge"
+      },
+      {
+        "src": "media/healing-center-06.webp",
+        "small": "media/healing-center-06-small.webp",
+        "width": 1800,
+        "height": 1012,
+        "smallWidth": 900,
+        "full": "media/healing-center-06-full.webp",
+        "fullWidth": 2048,
+        "fullHeight": 1152,
+        "caption": "Stone, timber and the facade rhythm"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "media/healing-center-drawing-01.webp",
+        "small": "media/healing-center-drawing-01-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 1
+      },
+      {
+        "src": "media/healing-center-drawing-02.webp",
+        "small": "media/healing-center-drawing-02-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 2
+      },
+      {
+        "src": "media/healing-center-drawing-03.webp",
+        "small": "media/healing-center-drawing-03-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 3
+      },
+      {
+        "src": "media/healing-center-drawing-04.webp",
+        "small": "media/healing-center-drawing-04-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 4
+      },
+      {
+        "src": "media/healing-center-drawing-05.webp",
+        "small": "media/healing-center-drawing-05-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 5
+      },
+      {
+        "src": "media/healing-center-drawing-06.webp",
+        "small": "media/healing-center-drawing-06-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 6
+      },
+      {
+        "src": "media/healing-center-drawing-07.webp",
+        "small": "media/healing-center-drawing-07-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 7
+      }
+    ],
+    "video": {
+      "slug": "healing-center",
+      "src": "media/healing-center-film.mp4",
+      "duration": 30.05,
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "pixelsPerSecond": 78,
+      "bytes": 15854665,
+      "keyframeInterval": 6
+    }
+  },
+  {
+    "id": "ain-tarma",
+    "number": "02",
+    "section": "Exterior",
+    "title": "Ain Tarma Residential Building",
+    "type": "Residential · Facade redevelopment",
+    "location": "Ain Tarma",
+    "heading": "A lighter facade, with a softer edge.",
+    "body": "Light cladding is balanced by dark and bronze-toned vertical elements. Curved balconies soften the corners, while glass balustrades keep the facade open. The entrance and material details bring the larger composition down to street level.",
+    "captions": [
+      "The residential building at street level",
+      "Curved balconies and glass balustrades",
+      "The entrance at pedestrian level",
+      "The meeting of cladding and vertical screens"
+    ],
+    "images": [
+      {
+        "src": "media/ain-tarma-01.webp",
+        "small": "media/ain-tarma-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/ain-tarma-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The residential building at street level"
+      },
+      {
+        "src": "media/ain-tarma-02.webp",
+        "small": "media/ain-tarma-02-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/ain-tarma-02-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "Curved balconies and glass balustrades"
+      },
+      {
+        "src": "media/ain-tarma-03.webp",
+        "small": "media/ain-tarma-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/ain-tarma-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The entrance at pedestrian level"
+      },
+      {
+        "src": "media/ain-tarma-04.webp",
+        "small": "media/ain-tarma-04-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/ain-tarma-04-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The meeting of cladding and vertical screens"
+      }
+    ],
+    "drawings": [],
+    "video": null
+  },
+  {
+    "id": "al-hafez",
+    "number": "03",
+    "section": "Exterior",
+    "title": "AL-HAFEZ",
+    "type": "Commercial / Industrial",
+    "heading": "A clear identity across a larger site.",
+    "body": "Light volumes and charcoal frames give the commercial and industrial buildings a shared architectural language. Vertical screens and glazing articulate the main frontage, while the aerial views reveal the relationship between the built edges and the wider site.",
+    "captions": [
+      "The commercial and industrial frontage",
+      "An aerial reading of the site",
+      "Charcoal frames around the corner glazing"
+    ],
+    "images": [
+      {
+        "src": "media/al-hafez-01.webp",
+        "small": "media/al-hafez-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-hafez-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The commercial and industrial frontage"
+      },
+      {
+        "src": "media/al-hafez-02.webp",
+        "small": "media/al-hafez-02-small.webp",
+        "width": 1800,
+        "height": 1014,
+        "smallWidth": 900,
+        "full": "media/al-hafez-02-full.webp",
+        "fullWidth": 1671,
+        "fullHeight": 941,
+        "caption": "An aerial reading of the site"
+      },
+      {
+        "src": "media/al-hafez-03.webp",
+        "small": "media/al-hafez-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-hafez-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "Charcoal frames around the corner glazing"
+      }
+    ],
+    "drawings": [],
+    "video": null
+  },
+  {
+    "id": "al-tall-villa",
+    "number": "04",
+    "section": "Exterior",
+    "title": "Al-Tall Private Villa",
+    "type": "Private residence · Architecture & landscape",
+    "location": "Al-Tall",
+    "heading": "An arrival shaped by the garden.",
+    "body": "Planted paths, a water feature and sheltered seating lead toward the villa. The garden extends the experience of the house through pergolas, evening light and places to pause. The shared film continues inside to the duplex and its curved stair.",
+    "captions": [
+      "The villa and its garden approach",
+      "Water and light along the garden path",
+      "The principal entrance",
+      "A sheltered outdoor seating area",
+      "The pergola and garden at dusk"
+    ],
+    "filmNote": "The construction sequence is a visual narrative of the design.",
+    "images": [
+      {
+        "src": "media/al-tall-villa-01.webp",
+        "small": "media/al-tall-villa-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The villa and its garden approach"
+      },
+      {
+        "src": "media/al-tall-villa-02.webp",
+        "small": "media/al-tall-villa-02-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-02-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "Water and light along the garden path"
+      },
+      {
+        "src": "media/al-tall-villa-03.webp",
+        "small": "media/al-tall-villa-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The principal entrance"
+      },
+      {
+        "src": "media/al-tall-villa-04.webp",
+        "small": "media/al-tall-villa-04-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-04-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "A sheltered outdoor seating area"
+      },
+      {
+        "src": "media/al-tall-villa-05.webp",
+        "small": "media/al-tall-villa-05-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-villa-05-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The pergola and garden at dusk"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "media/al-tall-villa-drawing-01.webp",
+        "small": "media/al-tall-villa-drawing-01-small.webp",
+        "width": 2263,
+        "height": 3200,
+        "smallWidth": 900,
+        "page": 1
+      },
+      {
+        "src": "media/al-tall-villa-drawing-02.webp",
+        "small": "media/al-tall-villa-drawing-02-small.webp",
+        "width": 2263,
+        "height": 3200,
+        "smallWidth": 900,
+        "page": 2
+      },
+      {
+        "src": "media/al-tall-villa-drawing-03.webp",
+        "small": "media/al-tall-villa-drawing-03-small.webp",
+        "width": 2263,
+        "height": 3200,
+        "smallWidth": 900,
+        "page": 3
+      },
+      {
+        "src": "media/al-tall-villa-drawing-04.webp",
+        "small": "media/al-tall-villa-drawing-04-small.webp",
+        "width": 2263,
+        "height": 3200,
+        "smallWidth": 900,
+        "page": 4
+      }
+    ],
+    "video": {
+      "slug": "al-tall-villa",
+      "src": "media/al-tall-villa-film.mp4",
+      "duration": 30.05,
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "pixelsPerSecond": 64,
+      "bytes": 20379474,
+      "keyframeInterval": 6
+    }
+  },
+  {
+    "id": "damascene-restaurant",
+    "number": "05",
+    "section": "Exterior",
+    "title": "Traditional Damascene Restaurant",
+    "type": "Hospitality · Courtyard restaurant",
+    "heading": "A courtyard at the heart of the experience.",
+    "body": "A fountain anchors the open courtyard, with a stair linking the ground-floor tables to an upper terrace. Stone arches, timber, carved details and climbing plants give the spaces their Damascene character. The same courtyard becomes a quieter setting as day turns to evening.",
+    "captions": [
+      "Dining around the courtyard fountain",
+      "The upper terrace and timber balustrade",
+      "The stair connecting the two levels",
+      "A view into the courtyard from above",
+      "The courtyard after sunset"
+    ],
+    "images": [
+      {
+        "src": "media/damascene-restaurant-01.webp",
+        "small": "media/damascene-restaurant-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "Dining around the courtyard fountain"
+      },
+      {
+        "src": "media/damascene-restaurant-02.webp",
+        "small": "media/damascene-restaurant-02-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-02-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The upper terrace and timber balustrade"
+      },
+      {
+        "src": "media/damascene-restaurant-03.webp",
+        "small": "media/damascene-restaurant-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The stair connecting the two levels"
+      },
+      {
+        "src": "media/damascene-restaurant-04.webp",
+        "small": "media/damascene-restaurant-04-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-04-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "A view into the courtyard from above"
+      },
+      {
+        "src": "media/damascene-restaurant-05.webp",
+        "small": "media/damascene-restaurant-05-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/damascene-restaurant-05-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The courtyard after sunset"
+      }
+    ],
+    "drawings": [],
+    "video": {
+      "slug": "damascene-restaurant",
+      "src": "media/damascene-restaurant-film.mp4",
+      "duration": 15.07,
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "pixelsPerSecond": 75,
+      "bytes": 11588416,
+      "keyframeInterval": 6
+    }
+  },
+  {
+    "id": "al-tall-duplex",
+    "number": "I 01",
+    "section": "Interior",
+    "title": "Al-Tall Duplex Villa",
+    "type": "Residential interior · Duplex",
+    "location": "Al-Tall",
+    "heading": "A curved stair as the spatial centre.",
+    "body": "The sculptural stair connects the two levels and shapes the views between the entrance, dining room and living space. Timber, light surfaces and integrated lighting continue across the interior, with detailed walls giving each area its own character.",
+    "captions": [
+      "The curved stair and connected living space",
+      "The dining room beneath the stair",
+      "Living space and media wall",
+      "The entrance sequence"
+    ],
+    "sharedFilm": "al-tall-villa",
+    "images": [
+      {
+        "src": "media/al-tall-duplex-01.webp",
+        "small": "media/al-tall-duplex-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-duplex-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The curved stair and connected living space"
+      },
+      {
+        "src": "media/al-tall-duplex-02.webp",
+        "small": "media/al-tall-duplex-02-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-duplex-02-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The dining room beneath the stair"
+      },
+      {
+        "src": "media/al-tall-duplex-03.webp",
+        "small": "media/al-tall-duplex-03-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-duplex-03-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "Living space and media wall"
+      },
+      {
+        "src": "media/al-tall-duplex-04.webp",
+        "small": "media/al-tall-duplex-04-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/al-tall-duplex-04-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The entrance sequence"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "media/al-tall-duplex-drawing-01.webp",
+        "small": "media/al-tall-duplex-drawing-01-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 1
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-02.webp",
+        "small": "media/al-tall-duplex-drawing-02-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 2
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-03.webp",
+        "small": "media/al-tall-duplex-drawing-03-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 3
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-04.webp",
+        "small": "media/al-tall-duplex-drawing-04-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 4
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-05.webp",
+        "small": "media/al-tall-duplex-drawing-05-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 5
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-06.webp",
+        "small": "media/al-tall-duplex-drawing-06-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 6
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-07.webp",
+        "small": "media/al-tall-duplex-drawing-07-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 7
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-08.webp",
+        "small": "media/al-tall-duplex-drawing-08-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 8
+      },
+      {
+        "src": "media/al-tall-duplex-drawing-09.webp",
+        "small": "media/al-tall-duplex-drawing-09-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 9
+      }
+    ],
+    "video": null
+  },
+  {
+    "id": "neoclassical",
+    "number": "I 02",
+    "section": "Interior",
+    "title": "Neoclassical Living & Dining",
+    "type": "Residential interior · Neoclassical",
+    "heading": "Symmetry, proportion and crafted detail.",
+    "body": "The living and dining spaces are organised around a balanced composition of furniture, pilasters and wall panels. The ceiling ornament, chandelier and fireplace create a sequence of focal points, while textiles and warm light soften the carved surfaces.",
+    "captions": [
+      "The living and dining composition",
+      "A symmetrical dining setting",
+      "Ceiling ornament and chandelier",
+      "Pilasters, curtains and wall panels",
+      "Upholstery and carved details"
+    ],
+    "images": [
+      {
+        "src": "media/neoclassical-01.webp",
+        "small": "media/neoclassical-01-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-01-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "The living and dining composition"
+      },
+      {
+        "src": "media/neoclassical-02.webp",
+        "small": "media/neoclassical-02-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-02-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "A symmetrical dining setting"
+      },
+      {
+        "src": "media/neoclassical-03.webp",
+        "small": "media/neoclassical-03-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-03-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "Ceiling ornament and chandelier"
+      },
+      {
+        "src": "media/neoclassical-04.webp",
+        "small": "media/neoclassical-04-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-04-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "Pilasters, curtains and wall panels"
+      },
+      {
+        "src": "media/neoclassical-05.webp",
+        "small": "media/neoclassical-05-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/neoclassical-05-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "Upholstery and carved details"
+      }
+    ],
+    "drawings": [
+      {
+        "src": "media/neoclassical-drawing-01.webp",
+        "small": "media/neoclassical-drawing-01-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 1
+      },
+      {
+        "src": "media/neoclassical-drawing-02.webp",
+        "small": "media/neoclassical-drawing-02-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 2
+      },
+      {
+        "src": "media/neoclassical-drawing-03.webp",
+        "small": "media/neoclassical-drawing-03-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 3
+      },
+      {
+        "src": "media/neoclassical-drawing-04.webp",
+        "small": "media/neoclassical-drawing-04-small.webp",
+        "width": 3200,
+        "height": 2263,
+        "smallWidth": 900,
+        "page": 4
+      }
+    ],
+    "video": {
+      "slug": "neoclassical",
+      "src": "media/neoclassical-film.mp4",
+      "duration": 20.06,
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "pixelsPerSecond": 72,
+      "bytes": 8844438,
+      "keyframeInterval": 6
+    }
+  },
+  {
+    "id": "paint-showroom",
+    "number": "I 03",
+    "section": "Interior",
+    "title": "Paint Showroom",
+    "type": "Retail interior · Paint and material display",
+    "heading": "A structural element becomes a display of craft.",
+    "body": "Bands of vertical timber slats wrap diagonally around the columns, alternating with exposed light cladding. Concealed light traces the boundaries between the two. Shelves, sample walls and a seating area organise the showroom around a clear material experience.",
+    "captions": [
+      "The showroom and its timber-wrapped columns",
+      "Alternating timber bands and exposed light cladding",
+      "Display shelves along the circulation route",
+      "The colour sample wall and seating area",
+      "The organisation of shelves and display stands"
+    ],
+    "images": [
+      {
+        "src": "media/paint-showroom-01.webp",
+        "small": "media/paint-showroom-01-small.webp",
+        "width": 1800,
+        "height": 1013,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-01-full.webp",
+        "fullWidth": 1672,
+        "fullHeight": 941,
+        "caption": "The showroom and its timber-wrapped columns"
+      },
+      {
+        "src": "media/paint-showroom-02.webp",
+        "small": "media/paint-showroom-02-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-02-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "Alternating timber bands and exposed light cladding"
+      },
+      {
+        "src": "media/paint-showroom-03.webp",
+        "small": "media/paint-showroom-03-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-03-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "Display shelves along the circulation route"
+      },
+      {
+        "src": "media/paint-showroom-04.webp",
+        "small": "media/paint-showroom-04-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-04-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "The colour sample wall and seating area"
+      },
+      {
+        "src": "media/paint-showroom-05.webp",
+        "small": "media/paint-showroom-05-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/paint-showroom-05-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "The organisation of shelves and display stands"
+      }
+    ],
+    "drawings": [],
+    "video": {
+      "slug": "paint-showroom",
+      "src": "media/paint-showroom-film.mp4",
+      "duration": 20.06,
+      "width": 1280,
+      "height": 720,
+      "fps": 24.0,
+      "pixelsPerSecond": 72,
+      "bytes": 12143417,
+      "keyframeInterval": 6
+    }
+  },
+  {
+    "id": "open-plan-study",
+    "number": "I 04",
+    "section": "Interior",
+    "title": "Warm Open-Plan Living",
+    "type": "Course study · Living / Dining / Kitchen",
+    "heading": "One room, connected uses.",
+    "body": "A study in arranging living, dining and kitchen functions within a shared open space. Timber, soft upholstery and a restrained material palette connect the zones, while furniture and lighting establish their individual character.",
+    "captions": [
+      "Living and dining within one open space",
+      "The dining area and kitchen beyond",
+      "The living area facing the dining and kitchen zones"
+    ],
+    "course": true,
+    "images": [
+      {
+        "src": "media/open-plan-study-01.webp",
+        "small": "media/open-plan-study-01-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/open-plan-study-01-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "Living and dining within one open space"
+      },
+      {
+        "src": "media/open-plan-study-02.webp",
+        "small": "media/open-plan-study-02-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/open-plan-study-02-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "The dining area and kitchen beyond"
+      },
+      {
+        "src": "media/open-plan-study-03.webp",
+        "small": "media/open-plan-study-03-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/open-plan-study-03-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "The living area facing the dining and kitchen zones"
+      }
+    ],
+    "drawings": [],
+    "video": null
+  },
+  {
+    "id": "bedroom-study",
+    "number": "I 05",
+    "section": "Interior",
+    "title": "Red / Black Bedroom",
+    "type": "Course study · Residential interior",
+    "heading": "A controlled contrast of colour and light.",
+    "body": "A bedroom study combining dark joinery, warm lighting and red accents. The bed wall, glazed wardrobe and ceiling composition are developed as a coordinated interior, exploring the relationship between contrast, texture and proportion.",
+    "captions": [
+      "The bed wall and contrasting red accents",
+      "Material and lighting details at the bed",
+      "The bedroom and glazed wardrobe"
+    ],
+    "course": true,
+    "images": [
+      {
+        "src": "media/bedroom-study-01.webp",
+        "small": "media/bedroom-study-01-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/bedroom-study-01-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "The bed wall and contrasting red accents"
+      },
+      {
+        "src": "media/bedroom-study-02.webp",
+        "small": "media/bedroom-study-02-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/bedroom-study-02-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "Material and lighting details at the bed"
+      },
+      {
+        "src": "media/bedroom-study-03.webp",
+        "small": "media/bedroom-study-03-small.webp",
+        "width": 1800,
+        "height": 1350,
+        "smallWidth": 900,
+        "full": "media/bedroom-study-03-full.webp",
+        "fullWidth": 1448,
+        "fullHeight": 1086,
+        "caption": "The bedroom and glazed wardrobe"
+      }
+    ],
+    "drawings": [],
+    "video": null
+  }
+]
